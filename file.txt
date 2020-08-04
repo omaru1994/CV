@@ -1,1 +1,2 @@
 Text before adding to git ignore
+Text after adding to git ignore (not worked)
